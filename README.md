@@ -1,4 +1,4 @@
-# Image Search Project
+# Image Search App
 
 This application allows you to search for photos using the **Unsplash API**.
 
